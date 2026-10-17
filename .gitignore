@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Database (contains your password hash)
+db.sqlite3
+
+# Uploaded songs (large, and personal)
+media/
+
+# Editor
+.vscode/
+
+config/local_settings.py
